@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Testing Adler Manifests" ] },
+    "summary": { "en": [ "This is a test of manifests from the Harry Ransom Center's Stella Adler collectiom" ] },
+    "items": [
+    ]
+}
