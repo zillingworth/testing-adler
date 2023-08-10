@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: An Enemy of the People
 manifest_name: an-enemy-of-the-people
 permalink: an-enemy-of-the-people
